@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552616719595",
+    "project_id": "email-automation-afbe4",
+    "storage_bucket": "email-automation-afbe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552616719595:android:a9e0abd2f01cf3b67d7aae",
+        "android_client_info": {
+          "package_name": "com.example.flipr_hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552616719595-dncnshqepjqs400l9o4kmet9aft7c1il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMkOAInhf0QmiUTuju0wHVO7FCMNXpa70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552616719595-dncnshqepjqs400l9o4kmet9aft7c1il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
