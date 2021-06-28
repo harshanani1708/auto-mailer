@@ -5,6 +5,6 @@ Open the project in developing environment, after all the dependencies are downl
 
 -> Please make sure that you have given enough permissions as specified in document.
 
--> Make sure that bcc contains two mails seperated by ','.
+-> Make sure that bcc contains only two mails seperated by ','.
 
 -> Also make sure that this mail exist in your gmail of your current device.
