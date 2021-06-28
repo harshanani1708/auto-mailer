@@ -5,8 +5,8 @@ import 'package:mailer2/mailer.dart';
 import 'package:timer_builder/timer_builder.dart';
 
 class FutureMailsHomePage extends StatefulWidget {
-  late String email, password;
-  FutureMailsHomePage({required String email, required String password});
+  String email, password;
+  FutureMailsHomePage({required this.email, required this.password});
 
   @override
   _FutureMailsHomePageState createState() => _FutureMailsHomePageState();
@@ -21,8 +21,8 @@ class _FutureMailsHomePageState extends State<FutureMailsHomePage> {
   bool loading = false;
   sendEmail(
       to, bccList, subject, mailDate, mailTime, timespan, mailBody) async {
-    String username = "nahara542120@gmail.com";
-    String password = "n54h21r20";
+     String username = widget.email;
+     String password = widget.password;
 
     var options = new GmailSmtpOptions()
       ..username = username
