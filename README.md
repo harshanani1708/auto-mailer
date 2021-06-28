@@ -5,6 +5,6 @@ Open the project in developing environment, after all the dependencies are downl
 
 -> Please make sure that you have given enough permissions as specified in document.
 
--> As for time constraints we are unable to allow various email id's to access application. So to test application use only following credentials <b>Email - "nahara542120@gmail.com" password - "n54h21r20".</b>
+-> Make sure that bcc contains two mails seperated by ','.
 
 -> Also make sure that this mail exist in your gmail of your current device.
